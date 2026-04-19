@@ -1,0 +1,16 @@
+# Dependencies
+backend/node_modules/
+frontend/node_modules/
+
+# Environment files - NEVER commit these
+backend/.env
+frontend/.env
+
+# Build outputs
+frontend/build/
+backend/build/
+
+# Misc
+.DS_Store
+*.log
+.env.local
